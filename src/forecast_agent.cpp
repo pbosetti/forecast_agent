@@ -98,6 +98,7 @@ public:
 
 private:
   // Define the fields that are used to store internal resources
+  WeatherData _weather;
   
 };
 
